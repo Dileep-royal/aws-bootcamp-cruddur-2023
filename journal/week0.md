@@ -3,7 +3,7 @@
 # Homework Challenges
 1. **Destroy your root account credentials**
 * It's not posiible to destroy root account credentails,but we can change them.  
-![Changing root password](_docs/homework images/root-password-changing.jpeg)
+![Changing root password]()
 2. **Setting up MFA**
 * MFA stands for multi factor Authentication,which provides a greater security for our aws account.
 * There are both physical and virtual MFA Devices.
