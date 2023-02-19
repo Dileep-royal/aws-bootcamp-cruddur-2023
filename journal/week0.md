@@ -16,6 +16,6 @@
 * At maximum we can add up to 8 MFA devices/Authenticators.
 * At Last, I Succesfully Activated MFA For My AWS Account.  
 
-![Activating MFA](https://github.com/Dileep-royal/aws-bootcamp-cruddur-2023/blob/main/_docs/homework%20images/mfa%26usergroups.jpeg)  
+![Activating MFA](https://github.com/Dileep-royal/aws-bootcamp-cruddur-2023/blob/main/_docs/homework%20images/mfa_usergroups.jpeg)  
 
 3. **Creating IAM role**
