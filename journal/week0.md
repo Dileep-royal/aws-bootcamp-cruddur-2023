@@ -3,7 +3,7 @@
 # Homework Challenges
 1. Destroy your root account credentials
 * It's not posiible to destroy root account credentails,but we can change them.
-![Changing root password](_docs\homework images\root password changing.png)
+![Changing root password](https://github.com/Dileep-royal/aws-bootcamp-cruddur-2023/blob/main/_docs/homework%20images/root%20password%20changing.png)
 2. Set MFA
 * MFA stands for multi factor Authentication,which provides a greater security for our aws account.
 * There are both physical and virtual MFA Devices.
@@ -13,5 +13,5 @@
 * I used google Authenticator by scanning QR code given by AWS.
 * At maximum we can add up to 8 MFA devices/Authenticators.
 * Succesfully Activated MFA For My AWS Account.
-![Activating MFA](_docs\homework images\root password changing.png)
+![Activating MFA]()
 3. IAM role
