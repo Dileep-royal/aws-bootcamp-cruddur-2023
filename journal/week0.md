@@ -9,8 +9,10 @@
 * MFA stands for multi factor Authentication,which provides a greater security for our aws account.
 * There are both physical and virtual MFA Devices.
 * There are so many Virtual Authenticators/Devices like google Authenticator ,Microsoft Authenticator.
-* The Physical MFA Devices are shown below.
-![](https://m.media-amazon.com/images/I/41lUoxgIWPL._AC_SX466_.jpg)![](https://miro.medium.com/v2/resize:fit:750/format:webp/1*fE0PS7xtNJhe0aH6QsTQtQ.jpeg)
+* The Physical MFA Devices are shown below.  
+
+![](https://m.media-amazon.com/images/I/41lUoxgIWPL._AC_SX466_.jpg)
+![](https://miro.medium.com/v2/resize:fit:750/format:webp/1*fE0PS7xtNJhe0aH6QsTQtQ.jpeg)
 * I used google Authenticator by scanning QR code given by AWS.
 * At maximum we can add up to 8 MFA devices/Authenticators.
 * Succesfully Activated MFA For My AWS Account.  
