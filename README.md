@@ -32,7 +32,7 @@ The `/journal` directory contains
 - [ ] [Week 12](journal/week12.md)
 - [ ] [Week 13](journal/week13.md)
 
-## Notes from Live Vedios
+## Notes from Live Videos
 
 - [Week 0](notes/note0.md)
 - [Week 1](notes/note1.md)
