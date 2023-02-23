@@ -31,3 +31,20 @@ The `/journal` directory contains
 - [ ] [Week 11](journal/week11.md)
 - [ ] [Week 12](journal/week12.md)
 - [ ] [Week 13](journal/week13.md)
+
+## Notes from Live Vedios
+
+- [Week 0](notes/note0.md)
+- [Week 1](notes/note1.md)
+- [Week 2](notes/note2.md)
+- [Week 3](notes/note3.md)
+- [Week 4](notes/note4.md)
+- [Week 5](notes/note5.md)
+- [Week 6](notes/note6.md)
+- [Week 7](notes/note7.md)
+- [Week 8](notes/note8.md)
+- [Week 9](notes/note9.md)
+- [Week 10](notes/note10.md)
+- [Week 11](notes/note11.md)
+- [Week 12](notes/note12.md)
+- [Week 13](notes/note13.md)
